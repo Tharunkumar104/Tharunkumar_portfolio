@@ -68,7 +68,7 @@ export const About: React.FC = () => {
             </div>
 
             <a 
-              href="/Tharunkumar Resume..pdf" 
+              href="/Tharunkumar Resume.pdf" 
               className={styles.btnResume}
               target="_blank"
               rel="noopener noreferrer"
