@@ -12,7 +12,7 @@ export const About: React.FC = () => {
             <div className={styles.photoWrapper}>
               <div className={styles.photoBg} />
               <img 
-                src="/profile.jpg" 
+                src="/39051.jpg" 
                 alt="Tharunkumar D" 
                 className={styles.photo}
               />
