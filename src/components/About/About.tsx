@@ -50,11 +50,11 @@ export const About: React.FC = () => {
                 <div className={styles.statLabel}>CGPA</div>
               </div>
               <div className={styles.stat}>
-                <div className={styles.statValue}>5+</div>
+                <div className={styles.statValue}>4</div>
                 <div className={styles.statLabel}>Projects</div>
               </div>
               <div className={styles.stat}>
-                <div className={styles.statValue}>3</div>
+                <div className={styles.statValue}>4</div>
                 <div className={styles.statLabel}>Awards</div>
               </div>
             </div>
