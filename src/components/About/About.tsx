@@ -27,7 +27,7 @@ export const About: React.FC = () => {
             <p className={styles.paragraph}>
               I am <span className={styles.highlight}>Tharunkumar D</span>, pursuing B.E in Electronics & Instrumentation 
               Engineering at <span className={styles.highlight}>Kongu Engineering College</span>. I maintain a strong 
-              academic record with a <span className={styles.highlight}>9.02 CGPA</span> through my 4th semester.
+              academic record with a <span className={styles.highlight}>8.98 CGPA</span> through my 5th semester.
             </p>
 
             <p className={styles.paragraph}>
@@ -63,7 +63,7 @@ export const About: React.FC = () => {
               <p className={styles.eduTitle}>Education</p>
               <p className={styles.eduName}>B.E. Electronics & Instrumentation Engineering</p>
               <p className={styles.eduDetails}>
-                Kongu Engineering College • <span className={styles.cgpa}>CGPA: 9.02</span> (till 4th sem)
+                Kongu Engineering College • <span className={styles.cgpa}>CGPA: 8.98</span> (till 5th sem)
               </p>
             </div>
 
