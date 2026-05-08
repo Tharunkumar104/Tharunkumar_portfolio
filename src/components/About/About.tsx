@@ -46,7 +46,7 @@ export const About: React.FC = () => {
 
             <div className={styles.stats}>
               <div className={styles.stat}>
-                <div className={styles.statValue}>9.02</div>
+                <div className={styles.statValue}>8.98</div>
                 <div className={styles.statLabel}>CGPA</div>
               </div>
               <div className={styles.stat}>
