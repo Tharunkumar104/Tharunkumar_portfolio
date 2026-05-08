@@ -34,7 +34,7 @@ const achievements: Achievement[] = [
     event: 'Technical Paper Presentation',
     organization: 'ISTE',
     icon: '🥈'
-  }
+  },
   {
     id: 4,
     position: '3rd Prize',
