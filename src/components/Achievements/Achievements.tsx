@@ -35,6 +35,14 @@ const achievements: Achievement[] = [
     organization: 'ISTE',
     icon: '🥈'
   }
+  {
+    id: 4,
+    position: '3rd Prize',
+    title: 'Secured a GPA average of 9.22 in the academic year 2025–2026.',
+    event: 'Academic Excellence',
+    organization: 'Kongu Engineering College',
+    icon: '🥈'
+  }
 ];
 
 export const Achievements: React.FC = () => {
