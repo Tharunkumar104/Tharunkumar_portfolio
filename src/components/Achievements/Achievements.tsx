@@ -16,7 +16,7 @@ const achievements: Achievement[] = [
     position: '2nd Prize',
     title: 'Hackathon – To-Do List Application',
     event: 'Hackathon Competition',
-    organization: 'EIE Association',
+    organization: 'EIE Association at Kongu Engineering College',
     icon: '🏆'
   },
   {
@@ -24,7 +24,7 @@ const achievements: Achievement[] = [
     position: '1st Prize',
     title: 'Paper Presentation: Accident Detection & Prevention System',
     event: 'Technical Paper Presentation',
-    organization: 'IEI at PTU',
+    organization: 'IEI at Puducherry Technological University',
     icon: '🥇'
   },
   {
@@ -32,7 +32,7 @@ const achievements: Achievement[] = [
     position: '2nd Prize',
     title: 'Paper Presentation: Smart Irrigation & Monitoring System',
     event: 'Technical Paper Presentation',
-    organization: 'ISTE',
+    organization: 'ISTE at Kongu Engineering College',
     icon: '🥈'
   },
   {
