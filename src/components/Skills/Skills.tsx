@@ -2,8 +2,10 @@ import React from 'react';
 import styles from './Skills.module.css';
 
 const hardwareSkills = [
-  'PLC Programming',
+  'PLC Programming (Ladder Logic)',
+  'Distributed Control System (DCS)',
   'SCADA Systems',
+  'Yokogawa PLC and DCS',
   'LabVIEW',
   'IoT & Embedded',
   'AutoCAD Electrical',
